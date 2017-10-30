@@ -4,7 +4,7 @@ Résumé du stage fait au LIP6 sur la classification de séries temporelles avec
 
 ## Contenu 
 
-LearningTimeSeriesShapelets :  Code Python utilisé pour mener à bien les différentes expérimentations.
+\textbf{LearningTimeSeriesShapelets} :  Code Python utilisé pour mener à bien les différentes expérimentations.
 
 ResultatsUCR : Résultats des différentes expérimentations sur le dataset UCR : http://www.cs.ucr.edu/~eamonn/time_series_data/ sous différents formats
 
